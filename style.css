@@ -1,0 +1,141 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+a {
+  /* float: right; */
+  color: purple;
+  text-align: right;
+  border-left: 2px solid black;
+  margin-right: 20px;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: black;
+  /* width: 100%; */
+  margin: 0;
+  top: 0;
+  /* float: left; */
+}
+
+body {
+  font-family: Arial;
+  color: black;
+  background-color: gold;
+  margin: 0 auto;
+}
+
+/* .float {
+  float: right; */
+
+
+nav {
+  /* display: block; */
+  padding: 3px;
+}
+
+.title {
+  color: purple;
+  display: inline;
+  background-color: black;
+  font-size: 35px;
+  padding-bottom: 1px;
+}
+
+.main {
+  background-color: purple;
+  width: 100%;
+  margin-top: 30px;
+}
+
+header {
+  background-color: black;
+}
+
+p {
+  text-align: center;
+  width: 100%;
+  padding: 25px;
+  color: white;
+}
+
+#kd {
+  float: left;
+  margin-left: 35px;
+  width: 20%;
+  height: 20%;
+  
+}
+
+.short {
+  text-align: left;
+  color: white;
+}
+
+.bio {
+  margin-top: 30px;
+  color: black;
+  margin-left: 140px;
+}
+
+hr {
+  margin-bottom: 1px;
+}
+
+#go {
+  text-align: center;
+  color: white;
+}
+
+#magic {
+  padding: 20px;
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#thank {
+  text-align: center;
+}
+
+/* div = section = article */
+#johnson {
+  text-align: center;
+  margin-top: 15px;
+  color: black;
+}
+
+#contact-form {
+  margin-left: 350px;
+}
+.display-4 {
+  text-align: center;
+}
+/* a {
+  margin-left: 600px;
+} */
+.lead {
+  text-align: center;
+}
+.all {
+  background-color: purple;
+}
+footer{
+  text-align: center;
+  position:relative;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  background-color: purple;
+  color: white;
+  border-top: 1px solid black;
+}
+
+#email{
+  padding: 0;
+  width: 100% !important;
+}
